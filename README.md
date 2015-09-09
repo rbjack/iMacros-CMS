@@ -39,7 +39,9 @@ Install
 =======
 
 Download [Firefox](https://www.mozilla.org/en-US/firefox/new/)
+
 Install the [iMacros Firefox plugin](https://addons.mozilla.org/en-us/firefox/addon/imacros-for-firefox/)
+
 Download the [iMacros-CMS](https://github.com/rbjack/iMacros-CMS/archive/master.zip) application and place/rename the 'src' directory into your projects folder.
 
 Configuration
