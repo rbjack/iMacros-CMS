@@ -1,7 +1,7 @@
 CMS Automation with iMacros
 ===========================
 
-This applicatios is for developers who are tired of manually tracking and repetitively 
+This application is for developers who are tired of manually tracking and repetitively 
 entering the same copy/content into different CMS development envioronments.
 
 This application and workflow creates a system that automates content entry all the way through to production.
@@ -38,11 +38,11 @@ What is this about. how to use it.
 Install
 =======
 
-Download [Firefox](https://www.mozilla.org/en-US/firefox/new/)
+- Download [Firefox](https://www.mozilla.org/en-US/firefox/new/)
+- Install the [iMacros Firefox plugin](https://addons.mozilla.org/en-us/firefox/addon/imacros-for-firefox/)
+- Download the [iMacros-CMS](https://github.com/rbjack/iMacros-CMS/archive/master.zip) application 
+and place/rename the 'src' directory into your projects folder.
 
-Install the [iMacros Firefox plugin](https://addons.mozilla.org/en-us/firefox/addon/imacros-for-firefox/)
-
-Download the [iMacros-CMS](https://github.com/rbjack/iMacros-CMS/archive/master.zip) application and place/rename the 'src' directory into your projects folder.
 
 Configuration
 =============
