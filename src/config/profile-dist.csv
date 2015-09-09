@@ -1,0 +1,2 @@
+"CMSUsername", "CMSPassword", "iMacrosEncryptionSetting", "iMacrosDirectory"
+"johnsmith", "MySecretPass", "NO|STOREDKEY|TMPKEY", "/User/name/path/to/project/imacros/"

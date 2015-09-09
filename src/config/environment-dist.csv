@@ -1,0 +1,6 @@
+"Type","URL","OriginDatabase"
+"LOCAL","http://example.dev/","no"
+"DEV","http://dev.example.com/","no"
+"QA","http://qa.example.com/","no"
+"STAGE","http://stage.example.com/","no"
+"PROD","http://www.example.com","yes"

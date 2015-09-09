@@ -1,0 +1,9 @@
+.DS_Store
+
+app/#Current.iim
+
+config/environment.csv
+config/profile.csv
+
+scripts/synclist.csv
+scripts/testresults.csv
